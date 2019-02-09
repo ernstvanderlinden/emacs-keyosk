@@ -38,7 +38,7 @@
 ;;  (evil-motion-state-map
 ;;   evil-insert-state-map)
 ;;  ("M-d" nil)
-;;  ("M-n" 'my-swiper-at-point))))
+;;  ("M-n" 'my-swiper-at-point))
 
 ;; (keyosk-evil-define-key
 ;;  '(normal visual) 

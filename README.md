@@ -25,7 +25,7 @@ Usage
  (evil-motion-state-map
   evil-insert-state-map)
  ("M-d" nil)
- ("M-n" 'my-swiper-at-point))))
+ ("M-n" 'my-swiper-at-point))
 ```
 #### Example 2 - keyosk-evil-define-key
 ```elisp
